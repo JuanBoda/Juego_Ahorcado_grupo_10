@@ -538,4 +538,4 @@ void derrota(char palabra[]) // para mostrar la derrota con marco ASCII doble
     }
     printf("%sLa palabra era: %s%s%s\n", COLOR_BLANCO, COLOR_VERDE, palabra, COLOR_RESET);
 }
-// fin
+/// fin
