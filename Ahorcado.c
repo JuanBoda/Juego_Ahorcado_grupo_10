@@ -64,7 +64,7 @@ void derrota(char palabra[]);                                                   
 
 int main()
 {
-    utf_8();           // para que caracteres especiales se muestren correctamente
+    utf_8();           // para mostrar caracteres especiales correctamente
     srand(time(NULL)); // Inicializar generador de números aleatorios (una sola vez)
 
     // Variables locales para la eleccion de palabras.
